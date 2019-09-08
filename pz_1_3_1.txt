@@ -1,1 +1,2 @@
 git clone https://github.com/Psih1203/Duka_WEB.git
+git add numPIB.txt
