@@ -2,3 +2,4 @@ git clone https://github.com/Psih1203/Duka_WEB.git
 git add numPIB.txt
 git commit -m "add 03"
 git add numPIB.txt
+git push
